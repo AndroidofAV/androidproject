@@ -1,0 +1,4 @@
+androidproject
+==============
+
+build android
